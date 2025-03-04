@@ -22,4 +22,4 @@ To view the portfolio on your local machine, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/EngYouniss/portfolio.git
+  https://github.com/EngYouniss/My-Portfolio.git
